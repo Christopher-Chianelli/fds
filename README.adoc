@@ -1,0 +1,11 @@
+= fds - File Data Structures
+
+fds strives to be the most impractical data structure libary in existance.
+All data structures in fds use files to store their data.
+
+== Contributing
+
+Pull requests are accepted - feel free to add your own horrendous data 
+structures to it; however, we will not accept PR that add an efficient data
+structure. If you add a data structure, it must use files, and cannot store
+data in an array except inside functions. 
